@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.canva{
+  padding: 10px 30px;
+  color: #212121;
+  text-decoration: none;
+}
+
+h1{
+  padding-bottom: 20px;
+}
+
+.button{
+  margin: 20px;
+  padding: 50px;
+  border: 2px solid #212121;
+  border-radius: 5px;
+}
+
+#grey{
+  background-color: grey;
+}
+
+#white{
+  background-color: white;
+}
+
+#blue{
+  background-color: blue;
+}
+
+#yellow{
+  background-color: yellow;
+}
